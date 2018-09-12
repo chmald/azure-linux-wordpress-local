@@ -4,7 +4,7 @@ This image allows for you to add your WordPress content in the `app` folder and 
 
 This images is using parent Azure App Services [parent image](https://hub.docker.com/r/appsvcorg/wordpress-alpine-php/).
 
-# Please note. This is for testing and proof of concept and should be used as 
+# Please note. This is for testing and proof of concept only and would recommend further changes be made to fit business need.
 
 ## Components
 This docker image currently contains the following components:
