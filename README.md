@@ -19,7 +19,7 @@ This docker image currently contains the following components:
 1. Create a Web App for Containers
 2. Add new App Settings for your Azure Database for MySQL credentials
 
-Name | Default Value
+Name | Value
 ---- | -------------
 DATABASE_HOST | database.mysql.database.azure.com
 DATABASE_NAME | azurewpdb
